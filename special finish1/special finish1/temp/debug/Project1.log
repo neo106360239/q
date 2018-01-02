@@ -1,3 +1,29 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(372,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
-  Project1.vcxproj -> C:\Users\neo\Desktop\special finish1\special finish1\Project1\Project1\..\..\temp\debug\Project1.exe
+  main.c
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(11): warning C4005: 'max': 巨集重複定義
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1300): note: 請參閱 'max' 之前的定義
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(52): warning C4013: 'getch' 未定義; 假設 extern 傳回整數
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(80): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(467): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(496): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(515): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(523): warning C4020: 'gameend': 實質參數太多
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(508): warning C4101: 'i': 未參考的區域變數
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(545): warning C4013: 'getche' 未定義; 假設 extern 傳回整數
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(642): warning C4101: 'z': 未參考的區域變數
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(668): warning C4029: 在函式宣告和函式定義中的型式參數清單不同
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(697): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(741): warning C4098: 'head6': 'void' 函式正在傳回值
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(753): warning C4047: '函式': 'char' 與 'char [20][15]' 間接取值的層級不同
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(753): warning C4024: 'game': 型式和實質參數 2 不同的類型
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(735): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(746): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: 請參閱 'sscanf' 的宣告
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(764): warning C4028: 型式參數 2 與來自宣告的不同
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(765): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(770): warning C4013: 'strlen' 未定義; 假設 extern 傳回整數
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(766): warning C4101: 'i': 未參考的區域變數
+c:\users\neo\desktop\新增資料夾\special finish1\special finish1\source\main.c(775): warning C4101: 'ch': 未參考的區域變數
+  Project1.vcxproj -> C:\Users\neo\Desktop\新增資料夾\special finish1\special finish1\Project1\Project1\..\..\temp\debug\Project1.exe
