@@ -495,8 +495,7 @@ void aaa()
 	o = b[0] % f;
 	w = b[0];
 	q = w / f;
-	printf("\n\t\t商數 : %d\n", h);
-	printf("\t\t餘數 : %d\n", o);
+	
 	printf("\t\t小數 : %f\n", q);
 }
 
