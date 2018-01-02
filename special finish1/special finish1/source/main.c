@@ -399,7 +399,7 @@ void head3()
 
 void add()
 {
-	int b[100], h = 0, i = 0, a, j;
+	int b[1000], h = 0, i = 0, a, j;
 	printf("加法 被加數與加數 輸入0代表等於\n");
 	do
 	{
@@ -407,7 +407,7 @@ void add()
 		scanf_s("%d", &b[i]);
 		a = b[i];
 		i++;
-	} while (a != 0 && i < 100);
+	} while (a != 0 && i < 1000);
 	i = i - 2;
 	for (j = 0; j < i; j++)
 		printf("%d+", b[j]);
